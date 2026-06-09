@@ -2,7 +2,7 @@
 
 **File Structure**
 
-**Day1/
+Day1/
 │
 ├── RippleCarryAdder/
 │   ├── rca.v              # Design File
@@ -12,9 +12,9 @@
 ├── BCDAdder/
 │   ├── bcd_adder.v       # Design File
 │   ├── bcd_adder_tb.v    # Testbench File
-│   └── bcd.md            # Observed Results**
+│   └── bcd.md            # Observed Results
 
-**Day2/
+Day2/
 │
 ├── DFlipFlop/
 │   ├── dff.v                 # Design File
@@ -36,4 +36,4 @@
 │   ├── decoder2x4_tb.v       # Testbench File
 │   └── decoder2x4.md         # Observed Results
 │
-└── README.md**      
+└── README.md  
