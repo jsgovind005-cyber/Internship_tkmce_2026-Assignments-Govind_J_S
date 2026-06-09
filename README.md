@@ -2,6 +2,7 @@
 
 **File Structure**
 
-**Day1<RippleCarry Adder{Design file,Testbench file & Observed resultsin(rca.md file)},BCD Adder{Design file,Testbench file & Observed resultsin(bcd.md file)>}**
+**Day1<RippleCarry Adder{Design file,Testbench file & Observed resultsin(rca.md file)},BCD Adder{Design file,Testbench file & Observed resultsin(bcd.md file)>}>**
 
-**Day2<D flipflop{Design file,Testbench file & Observed resultsin(dff.md file)},SR Flipflop{Design file,Testbench file & Observed resultsin(srff.md file)>Universal Shift Register{Design file,Testbench file & Observed results in(srff.md file)>Decoder{Design file,Testbench file & Observed resultsin(srff.md file)>}**       
+**Day2<D flipflop{Design file,Testbench file & Observed resultsin(dff.md file)},SR Flipflop{Design file,Testbench file & Observed resultsin(srff.md file)}
+  Universal Shift Register{Design file,Testbench file & Observed results in(srff.md file)>Decoder{Design file,Testbench file & Observed resultsin(srff.md file)>}>**       
