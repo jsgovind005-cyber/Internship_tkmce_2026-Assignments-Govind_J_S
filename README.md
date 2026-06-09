@@ -1,1 +1,4 @@
-**Enter the details of your work and file structure of each days here**
+**The Summer Internship Program 2026, organized by the Department of Electronics & Communication Engineering, TKM College of Engineering, in collaboration with OPSILIN Semiconductor Pvt. Ltd., Stem A Chip, and IEEE CASS SBC TKMCE, is designed to provide practical exposure to semiconductor and VLSI technologies. The program focuses on the complete IC design flow, including ASIC and SoC development, design verification, physical design, and low-power IC design using industry-standard EDA tools.**
+**File Structure**
+** Day1<RippleCarry Adder{Design file,Testbench file & Observed resultsin(rca.md file)},BCD Adder{Design file,Testbench file & Observed resultsin(bcd.md file)>}**
+** Day2<D flipflop{Design file,Testbench file & Observed resultsin(dff.md file)},SR Flipflop{Design file,Testbench file & Observed resultsin(srff.md file)>}**       
