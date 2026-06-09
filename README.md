@@ -2,7 +2,38 @@
 
 **File Structure**
 
-**Day1<RippleCarry Adder{Design file,Testbench file & Observed results in(rca.md file)},BCD Adder{Design file,Testbench file & Observed results in(bcd.md file)}>**
+**Day1/
+│
+├── RippleCarryAdder/
+│   ├── rca.v              # Design File
+│   ├── rca_tb.v           # Testbench File
+│   └── rca.md            # Observed Results
+│
+├── BCDAdder/
+│   ├── bcd_adder.v       # Design File
+│   ├── bcd_adder_tb.v    # Testbench File
+│   └── bcd.md            # Observed Results**
 
-**Day2<D flipflop{Design file,Testbench file & Observed results in(dff.md file)},SR Flipflop{Design file,Testbench file & Observed results in(srff.md file)},
-  Universal Shift Register{Design file,Testbench file & Observed results in(usr.md file)},Decoder{Design file,Testbench file & Observed results in(decoder2x4.md file)}>**       
+**Day2/
+│
+├── DFlipFlop/
+│   ├── dff.v                 # Design File
+│   ├── dff_tb.v              # Testbench File
+│   └── dff.md                # Observed Results
+│
+├── SRFlipFlop/
+│   ├── srff.v                # Design File
+│   ├── srff_tb.v             # Testbench File
+│   └── srff.md               # Observed Results
+│
+├── UniversalShiftRegister/
+│   ├── usr.v                 # Design File
+│   ├── usr_tb.v              # Testbench File
+│   └── usr.md                # Observed Results
+│
+├── Decoder2x4/
+│   ├── decoder2x4.v          # Design File
+│   ├── decoder2x4_tb.v       # Testbench File
+│   └── decoder2x4.md         # Observed Results
+│
+└── README.md**      
