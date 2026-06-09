@@ -1,40 +1,43 @@
 **The Summer Internship Program 2026, organized by the Department of Electronics & Communication Engineering, TKM College of Engineering, in collaboration with OPSILIN Semiconductor Pvt. Ltd., Stem A Chip, and IEEE CASS SBC TKMCE, is designed to provide practical exposure to semiconductor and VLSI technologies. The program focuses on the complete IC design flow, including ASIC and SoC development, design verification, physical design, and low-power IC design using industry-standard EDA tools.**
 
 **File Structure**
-'''
+
+# Repository Structure
+
+```text
 Day1/
-│
 ├── RippleCarryAdder/
-│   ├── rca.v              # Design File
-│   ├── rca_tb.v           # Testbench File
-│   └── rca.md            # Observed Results
+│   ├── rca.v
+│   ├── rca_tb.v
+│   └── rca.md
 │
 ├── BCDAdder/
-│   ├── bcd_adder.v       # Design File
-│   ├── bcd_adder_tb.v    # Testbench File
-│   └── bcd.md            # Observed Results
-
-Day2/
+│   ├── bcd_adder.v
+│   ├── bcd_adder_tb.v
+│   └── bcd.md
 │
+Day2/
 ├── DFlipFlop/
-│   ├── dff.v                 # Design File
-│   ├── dff_tb.v              # Testbench File
-│   └── dff.md                # Observed Results
+│   ├── dff.v
+│   ├── dff_tb.v
+│   └── dff.md
 │
 ├── SRFlipFlop/
-│   ├── srff.v                # Design File
-│   ├── srff_tb.v             # Testbench File
-│   └── srff.md               # Observed Results
+│   ├── srff.v
+│   ├── srff_tb.v
+│   └── srff.md
 │
 ├── UniversalShiftRegister/
-│   ├── usr.v                 # Design File
-│   ├── usr_tb.v              # Testbench File
-│   └── usr.md                # Observed Results
+│   ├── usr.v
+│   ├── usr_tb.v
+│   └── usr.md
 │
 ├── Decoder2x4/
-│   ├── decoder2x4.v          # Design File
-│   ├── decoder2x4_tb.v       # Testbench File
-│   └── decoder2x4.md         # Observed Results
+│   ├── decoder2x4.v
+│   ├── decoder2x4_tb.v
+│   └── decoder2x4.md
 │
-└── README.md  
-'''
+└── README.md
+```
+
+
