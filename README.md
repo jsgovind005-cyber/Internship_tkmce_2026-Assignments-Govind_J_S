@@ -2,42 +2,57 @@
 
 **File Structure**
 
-# Repository Structure
-
 ```text
-Day1/
-├── RippleCarryAdder/
-│   ├── rca.v
-│   ├── rca_tb.v
-│   └── rca.md
+Internship_tkmce_2026-Assignments-Govind_J_S/
 │
-├── BCDAdder/
-│   ├── bcd_adder.v
-│   ├── bcd_adder_tb.v
-│   └── bcd.md
+├── Day1/
+│   ├── RippleCarryAdder/
+│   │   ├── rca.v
+│   │   ├── rca_tb.v
+│   │   └── rca.md
+│   │
+│   └── BCDAdder/
+│       ├── bcd_adder.v
+│       ├── bcd_adder_tb.v
+│       └── bcd.md
 │
-Day2/
-├── DFlipFlop/
-│   ├── dff.v
-│   ├── dff_tb.v
-│   └── dff.md
+├── Day2/
+│   ├── DFlipFlop/
+│   │   ├── dff.v
+│   │   ├── dff_tb.v
+│   │   └── dff.md
+│   │
+│   ├── SRFlipFlop/
+│   │   ├── srff.v
+│   │   ├── srff_tb.v
+│   │   └── srff.md
+│   │
+│   ├── UniversalShiftRegister/
+│   │   ├── usr.v
+│   │   ├── usr_tb.v
+│   │   └── usr.md
+│   │
+│   └── Decoder2x4/
+│       ├── decoder2x4.v
+│       ├── decoder2x4_tb.v
+│       └── decoder2x4.md
 │
-├── SRFlipFlop/
-│   ├── srff.v
-│   ├── srff_tb.v
-│   └── srff.md
-│
-├── UniversalShiftRegister/
-│   ├── usr.v
-│   ├── usr_tb.v
-│   └── usr.md
-│
-├── Decoder2x4/
-│   ├── decoder2x4.v
-│   ├── decoder2x4_tb.v
-│   └── decoder2x4.md
+├── Day3/
+│   ├── FIFO_In_A_Usecase/
+│   │   ├── Machine_1.v
+│   │   ├── Machine_2.v
+│   │   ├── FIFO.v
+│   │   ├── top_modul.v
+│   │   ├── top_modul_tb.v
+│   │   └── FIFO_IN_A_Usecase.md
+│   │
+│   └── Sequence_Detector_1110_Overlapping/
+│       ├── ov_seq_1110.v
+│       ├── ov_seq_1110_tb.v
+│       └── 1110_Detector.md
 │
 └── README.md
 ```
+
 
 
