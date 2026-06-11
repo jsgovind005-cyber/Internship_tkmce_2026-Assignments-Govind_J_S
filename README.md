@@ -50,7 +50,11 @@ Internship_tkmce_2026-Assignments-Govind_J_S/
 │       ├── ov_seq_1110.v
 │       ├── ov_seq_1110_tb.v
 │       └── 1110_Detector.md
-│
+│──Day4/
+|  └──Block Memory Generator
+|     |──block_memory_generator.v
+|     |──tb_block_memory_generator.v
+|     └──bmg.md
 └── README.md
 ```
 
