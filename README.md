@@ -55,6 +55,38 @@ Internship_tkmce_2026-Assignments-Govind_J_S/
 |     |──block_memory_generator.v
 |     |──tb_block_memory_generator.v
 |     └──bmg.md
+|─Day5/
+|  └──BCD_adder interfacing
+|  |   |──BCD_ADDER.sv
+|  |   |──bcd_intf.sv
+|  |   └──bcdif.md
+|  └──FIFO Interfacing
+|     |──FIFO.sv
+|     |──fifo_tb.sv
+|     └──fifoif.md
+|─Day8/
+|  └──Apb
+|     |──apb_design.sv
+|     |──apb_tb.sv
+|     |──driver.sv
+|     |──environment.sv
+|     |──generator.sv
+|     |──interface.sv
+|     |──monitor.sv
+|     |──scoreboard.sv
+|     |──test.sv
+|     |──transaction.sv   
+|     └──abp.md
+|─Project/
+|  └──AXI STREAM
+|     |──README.md
+|     |──axis_fifo.v
+|     └──axis_rate_limit.v
+|     |──axis_rate_limit_top.v
+|     |──axis_reg_slice.v
+|     |──axis_stat_counter.v
+|     |──rate_control_fsm.v
+|     └──axis_master_throttling_tb.v
 └── README.md
 ```
 
